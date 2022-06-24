@@ -1,1 +1,1 @@
-Display current directory contents, including hidden files
+script that creates a directory
